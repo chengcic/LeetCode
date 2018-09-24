@@ -19,3 +19,28 @@ This project is LeetCode note for myself.
 |48. Rotate Image | Analysis | | reverse |
 |49. Group Anagrams | Hash Map | | auto it, it->fisrt, it-> second, for (m : mp) |
 |53. Maximum Subarray | Dymanic Programming | | max_element(begin(), end()) |
+|55. Jump Game | Greedy | | |
+|66. Plus One | Straight Forward | | vector insert(it, val), rbegin, rend |
+|70. Climbing Stairs | Dynamic Programming | | | 
+|75. Sort Colors | Analysis | | |
+|76. Minimum Window Substring | Analysis | | | numeric_limits<int>::max(), INT_MAX |
+|88. Merge Sorted Array | Analysis | | | 
+|94. Binary Tree Inorder Traversal | Recursive | | |
+|98. Validate Binary Search Tree | Recursive | | numeric_limits<long>::min() |
+|101. Symmetric Tree | Recursive | | |
+|102. Binary Tree Level Order Traversal | Queue | | front(), pop(), push() |
+|103. Binary Tree Zigzag Level Order Traversal | Queue | | |
+|104. Maximum Depth of Binary Tree | Recursive & Queue | | |
+|105. Construct Binary Tree from Preorder and Inorder Traversal | Recursive | | find, it arithmetic |
+|108. Convert Sorted Array to Binary Search Tree | Recursive | | const_iterator, iterator ||
+|116. Populating Next Right Pointers in Each Node | Recursive Or layer loop | | |
+|118. Pascal's Triangle | Straight Forward | | |
+|121. Best Time to Buy and Sell Stock | Straight Forward | | |
+|136. Single Number | XOR | | ^ |
+|141. Linked List Cycle | Two Pointer | | |
+|148. Sort List | Divide and Conquer | | Corner case |
+|150. Evaluate Reverse Polish Notation | Stack | | stoi, stof, stol, stod, stoll, stoul, to_string|
+|155. Min Stack | Stack | | |
+|160. Intersection of Two Linked Lists | Analysis | | |
+|169. Majority Element | Vote analysis | | |
+|189. Rotate Array | Reverse | | |
