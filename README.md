@@ -44,3 +44,14 @@ This project is LeetCode note for myself.
 |160. Intersection of Two Linked Lists | Analysis | | |
 |169. Majority Element | Vote analysis | | |
 |189. Rotate Array | Reverse | | |
+|198. House Robber | Dynamic Programming | | |
+|206. Reverse Linked List | Straight Forward | | Corner Case |
+|217. Contains Duplicate | Hash | | unordered_set, insert, clear, count, erase |
+|230. Kth Smallest Element in a BST | Recursive | | INT_MIN used as invalid answer|
+|234. Palindrome Linked List | Analysis | | Reverse the list, corner case 
+|236. Lowest Common Ancestor of a Binary Tree | Recursive | | |
+|268. Missing Number | XOR | | ^ |
+|279. Perfect Squares | Dynamic Programming | | |
+|283. Move Zeroes | Swap | | |
+|287. Find the Duplicate Number | Hash & Cycle Link | | |
+|347. Top K Frequent Elements | Hash & Heap sort | | make_pair, multi_map use insert |
