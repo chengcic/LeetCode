@@ -59,3 +59,24 @@ This project is LeetCode note for myself.
 |283. Move Zeroes | Swap | | |
 |287. Find the Duplicate Number | Hash & Cycle Link | | |
 |347. Top K Frequent Elements | Hash & Heap sort | | make_pair, multi_map use insert |
+| 41. First Missing Positive | Hash & Position Check | | count, insert |
+| 42. Trapping Rain Water | Dynamic Programming | | |
+| 122. Best Time to Buy and Sell Stock II | Analysis | | |
+| 125. Valid Palindrome | Two Pointer | | isalnum, isalpha, tolower, toupper, isdigit, isblank, atoi, atof, atol |
+| 171. Excel Sheet Column Number | Numeric Conversion | | |
+| 172. Factorial Trailing Zeroes | Numeric Analysis | | |
+| 190. Reverse Bits | Numeric Analysis | | |
+| 191. Number of 1 Bits | Numeric Analysis | | n &= (n - 1), >>=|
+| 202. Happy Number | Hash & Cycle | | |
+| 204. Count Primes | Flag | | |
+| 237. Delete Node in a Linked List | Value | | |
+| 242. Valid Anagram | Count histogram | | |
+| 328. Odd Even Linked List | Corner Case | | |
+| 326. Power of Three | Numeric Analysis | | |
+| 231. Power of Two | Numeric Analysis | | (1 << 31) % n == 0  n&(n-1)==0 |
+| 344. Reverse String | Straigt Forward | | |
+| 350. Intersection of Two Arrays II | Hash | | |
+| 371. Sum of Two Integers | Analysis | | |
+| 387. First Unique Character in a String | Histogram & Hash | | |
+| 412. Fizz Buzz | Straight Forward| | |
+| 238. Product of Array Except Self | Straight Forward | | |
