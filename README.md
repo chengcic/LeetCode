@@ -80,3 +80,15 @@ This project is LeetCode note for myself.
 | 387. First Unique Character in a String | Histogram & Hash | | |
 | 412. Fizz Buzz | Straight Forward| | |
 | 238. Product of Array Except Self | Straight Forward | | |
+| 34. Find First and Last Position of Element in Sorted Array | Binary Search | | Terminate condition for binary search is crucial|
+| 44. Wildcard Matching | Dynamic Programming | | DPBook meaning | 
+| 46. Permutations | Recursive | | | 
+| 50. Pow(x, n) | Divde and Conquer | | Pay attention to overflow | 
+| 54. Spiral Matrix | Code | |Pay attention to corner case | 
+| 56. Merge Intervals | Sort | | sort, function pointer | 
+| 62. Unique Paths | Dynamic Programming | | fill(begin, end, val), formula C(m,n)| 
+| 73. Set Matrix Zeroes | Axis perspective | | find(begin, end, val) | 
+| 78. Subsets | Divide and Conquer | | insert(begin, begin, end), bitmanipulate| 
+| 91. Decode Ways | Dynamic Programming | | Test use case, 0 manipulate | 
+| 139. Word Break | Dynamic Programming | | | 
+| 128. Longest Consecutive Sequence | Hash | | | 
