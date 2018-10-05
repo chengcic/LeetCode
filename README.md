@@ -92,3 +92,11 @@ This project is LeetCode note for myself.
 | 91. Decode Ways | Dynamic Programming | | Test use case, 0 manipulate | 
 | 139. Word Break | Dynamic Programming | | | 
 | 128. Longest Consecutive Sequence | Hash | | | 
+| 130. Surrounded Regions | Replace | | |
+| 179. Largest Number | Sort | | Corner case '0'|
+| 200. Number of Islands | Replace | | |
+| 215. Kth Largest Element in an Array | Heap && Quick sort | | |
+| 240. Search a 2D Matrix II | Analysis | | |
+| 322. Coin Change | Dynamic Programming | | |
+| 329. Longest Increasing Path in a Matrix | Dynamic Programming | | |
+| 134. Gas Station | Analysis | | |
