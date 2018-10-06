@@ -100,3 +100,17 @@ This project is LeetCode note for myself.
 | 322. Coin Change | Dynamic Programming | | |
 | 329. Longest Increasing Path in a Matrix | Dynamic Programming | | |
 | 134. Gas Station | Analysis | | |
+| 295. Find Median from Data Stream | Heap | | lower_bound, upper_bound is using binary search to find the place, priority_queue, pop, push, top|
+| 378. Kth Smallest Element in a Sorted Matrix | Heap | | make_pair, greater<int>, bool operator() (const T&, const T&) |
+| 239. Sliding Window Maximum | deque | | deque, pop_front(), pop_back(), back(), front() |
+| 127. Word Ladder | BFS | | queue, front(), pop(), push() |
+| 297. Serialize and Deserialize Binary Tree | DFS | | substr, find |
+| 324. Wiggle Sort II | Sort | | |
+| 138. Copy List with Random Pointer | Tricky weave | | |
+| 454. 4Sum II | Hash | | |
+| 149. Max Points on a Line | map | | gcd |
+| 380. Insert Delete GetRandom O(1) | Hash | | erase, rand() |
+| 166. Fraction to Recurring Decimal | Hash | | string.insert(pos, n, char) |
+| 79. Word Search | DFS | | |
+| 162. Find Peak Element | Binary Search | | |
+| 289. Game of Life | | |
