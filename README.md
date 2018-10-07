@@ -114,3 +114,7 @@ This project is LeetCode note for myself.
 | 79. Word Search | DFS | | |
 | 162. Find Peak Element | Binary Search | | |
 | 289. Game of Life | | |
+| 131. Palindrome Partitioning | DFS | | push_back -> pop_back in DFS|
+| 208. Implement Trie (Prefix Tree) | Data structure | | |
+| 384. Shuffle an Array | | rand(), swap() |
+| 334. Increasing Triplet Subsequence | | use mark |
