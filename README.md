@@ -125,3 +125,5 @@ This project is LeetCode note for myself.
 | 210. Course Schedule II | TopSort | | |
 | 212. Word Search II | Tries & DFS | | |
 | 395. Longest Substring with At Least K Repeating Characters | Divide and Conquer | | |
+| 341. Flatten Nested List Iterator | Stack | | |
+| 300. Longest Increasing Subsequence | Dynamic Programming | | |
