@@ -118,3 +118,10 @@ This project is LeetCode note for myself.
 | 208. Implement Trie (Prefix Tree) | Data structure | | |
 | 384. Shuffle an Array | | | rand(), swap() |
 | 334. Increasing Triplet Subsequence | | | use mark |
+| 69. Sqrt(x) | Binary Search && Newton | | |
+| 12. Integer to Roman | Look up | | |
+| 84. Largest Rectangle in Histogram | Stack | | |
+| 207. Course Schedule | TopSort | | |
+| 210. Course Schedule II | TopSort | | |
+| 212. Word Search II | Tries & DFS | | |
+| 395. Longest Substring with At Least K Repeating Characters | Divide and Conquer | | |
