@@ -127,3 +127,4 @@ This project is LeetCode note for myself.
 | 395. Longest Substring with At Least K Repeating Characters | Divide and Conquer | | |
 | 341. Flatten Nested List Iterator | Stack | | |
 | 300. Longest Increasing Subsequence | Dynamic Programming | | |
+| 67. Add Binary | Recursive | | |
