@@ -128,3 +128,5 @@ This project is LeetCode note for myself.
 | 341. Flatten Nested List Iterator | Stack | | |
 | 300. Longest Increasing Subsequence | Dynamic Programming | | |
 | 67. Add Binary | Recursive | | |
+| 349. Intersection of Two Arrays | Hash | | unordered_set (vector.begin(), vector.end()) |
+| 441. Arranging Coins | | |
