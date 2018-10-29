@@ -38,6 +38,48 @@ This project is LeetCode note for myself.
 |105. Construct Binary Tree from Preorder and Inorder Traversal | Recursive | | find, it arithmetic |
 |108. Convert Sorted Array to Binary Search Tree | Recursive | | const_iterator, iterator ||
 |116. Populating Next Right Pointers in Each Node | Recursive Or layer loop | | |
+|345. Reverse Vowels of a String | Two pointers | | find_first_of, find_last_of |
+|173. Binary Search Tree Iterator | Stack | | top, push, pop |
+|657. Robot Retrun to Origin | Count | | switch, default |
+|832. Flipping an Image | For loop | | |
+|760. Find Anagram Mappings | Hash Map | | |
+|463. Island Perimeter | Math method | | |
+|228. Summary Ranges | Tow pointer | | |
+|739. Daily Temperatures | Daynamic Programming | | |
+
+Google Interview
+1. Data structure & algoritm. Time complexity and space complexity
+	NP problems - what does NP complete actutally means.
+		travels salsman
+		nap stocks
+2. Math problem
+	Probablity & Counting problem & 排列组合
+3. Operating System
+	Process & Thread, semaphores new Texas locks
+	Resource
+	Context Switching
+	How scheduling works
+4. System design
+
+Quadratic
+Linear
+1. Ask question
+2. Talk constantly
+3. Watch out the edge case
+
+Blog
+1. Merge sort
+2. Hash Table -> How does they work
+3. Trees -> Binary tree, Trie Trees, n-ary tree, AVL tree, red-black tree, 
+4. Dijkstra, A*
+5. traveling salesman, knapsack
+6. NP-hard problem
+7. OS: locks, mutex, semaphores, monitors
+	deadlock, livelock 
+Know what resources a processes needs, and a thread needs, and how context switching works, and how it's initiated by the operating system and underlying hardware.
+  
+  
+
 |118. Pascal's Triangle | Straight Forward | | |
 |121. Best Time to Buy and Sell Stock | Straight Forward | | |
 |136. Single Number | XOR | | ^ |
