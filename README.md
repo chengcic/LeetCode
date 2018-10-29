@@ -46,40 +46,6 @@ This project is LeetCode note for myself.
 |463. Island Perimeter | Math method | | |
 |228. Summary Ranges | Tow pointer | | |
 |739. Daily Temperatures | Daynamic Programming | | |
-
-Google Interview
-1. Data structure & algoritm. Time complexity and space complexity
-	NP problems - what does NP complete actutally means.
-		travels salsman
-		nap stocks
-2. Math problem
-	Probablity & Counting problem & 排列组合
-3. Operating System
-	Process & Thread, semaphores new Texas locks
-	Resource
-	Context Switching
-	How scheduling works
-4. System design
-
-Quadratic
-Linear
-1. Ask question
-2. Talk constantly
-3. Watch out the edge case
-
-Blog
-1. Merge sort
-2. Hash Table -> How does they work
-3. Trees -> Binary tree, Trie Trees, n-ary tree, AVL tree, red-black tree, 
-4. Dijkstra, A*
-5. traveling salesman, knapsack
-6. NP-hard problem
-7. OS: locks, mutex, semaphores, monitors
-	deadlock, livelock 
-Know what resources a processes needs, and a thread needs, and how context switching works, and how it's initiated by the operating system and underlying hardware.
-  
-  
-
 |118. Pascal's Triangle | Straight Forward | | |
 |121. Best Time to Buy and Sell Stock | Straight Forward | | |
 |136. Single Number | XOR | | ^ |
@@ -173,3 +139,35 @@ Know what resources a processes needs, and a thread needs, and how context switc
 | 349. Intersection of Two Arrays | Hash | | unordered_set (vector.begin(), vector.end()) |
 | 441. Arranging Coins | | | |
 | 39. Combination Sum | Recursive | | |
+
+
+Google Interview
+1. Data structure & algoritm. Time complexity and space complexity
+	NP problems - what does NP complete actutally means.
+		travels salsman
+		nap stocks
+2. Math problem
+	Probablity & Counting problem & 排列组合
+3. Operating System
+	Process & Thread, semaphores new Texas locks
+	Resource
+	Context Switching
+	How scheduling works
+4. System design
+
+Quadratic
+Linear
+1. Ask question
+2. Talk constantly
+3. Watch out the edge case
+
+Blog
+1. Merge sort
+2. Hash Table -> How does they work
+3. Trees -> Binary tree, Trie Trees, n-ary tree, AVL tree, red-black tree, 
+4. Dijkstra, A*
+5. traveling salesman, knapsack
+6. NP-hard problem
+7. OS: locks, mutex, semaphores, monitors
+	deadlock, livelock 
+Know what resources a processes needs, and a thread needs, and how context switching works, and how it's initiated by the operating system and underlying hardware.
