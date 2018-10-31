@@ -139,6 +139,14 @@ This project is LeetCode note for myself.
 | 349. Intersection of Two Arrays | Hash | | unordered_set (vector.begin(), vector.end()) |
 | 441. Arranging Coins | | | |
 | 39. Combination Sum | Recursive | | |
+|336. Palindrome Pairs | Hash Table | | |
+|280. Wiggle Sort | Swap | | |
+|146. LRU Cache | Hash & List | | struct remember ";", list, push_front, pop_front, pop_front, push_back, splice, auto iterator, list iterator regard as pointer | 
+|252. Meeting Rooms | Sort | | struct bool operator() (const T& a, const T& b) |
+|236. Meeting Rooms II | Sort Heap | | priority_queue<T, vector<T>, less> default maxHeap|
+|100. Same Tree | Recursive | | |
+|904. Fruit Into Baskets | Hash Count | | |
+|205. Isomorphic Strings | Position check | | |
 
 
 Google Interview
