@@ -147,6 +147,7 @@ This project is LeetCode note for myself.
 |100. Same Tree | Recursive | | |
 |904. Fruit Into Baskets | Hash Count | | |
 |205. Isomorphic Strings | Position check | | |
+|120. Triangle | Dynamic Programming | | |
 
 
 Google Interview
