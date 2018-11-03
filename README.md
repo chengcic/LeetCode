@@ -148,7 +148,16 @@ This project is LeetCode note for myself.
 |904. Fruit Into Baskets | Hash Count | | |
 |205. Isomorphic Strings | Position check | | |
 |120. Triangle | Dynamic Programming | | |
-
+|81. Remove Duplicates from Sorted List | Two pointers | | |
+|63. Unique Paths II | Dynamic Programming | | |
+|119. Pascal's Triangle II | Analysis | | |
+|96. Unique Binary Search Trees | Dynamic Programming | | |
+|157. Read N Characters Given Read4 | Corner Case | | |
+|153. Find Minimum in Roatated Sorted Array | Binary Search | | |
+|285. Inorder Successor in BST | Recursive | | |
+|203. Remove Linked List Elements | Two pointer | | |
+|246. Strobogrammatic Number | Analysis | | |
+|346. Moving Average from Data Stream | Sliding Window | | |
 
 Google Interview
 1. Data structure & algoritm. Time complexity and space complexity
