@@ -158,6 +158,9 @@ This project is LeetCode note for myself.
 |203. Remove Linked List Elements | Two pointer | | |
 |246. Strobogrammatic Number | Analysis | | |
 |346. Moving Average from Data Stream | Sliding Window | | |
+|416. Partition Equal Subset Sum | Dynamic Programming | | |
+|325. Maximum Size Subarray Sum Equals k | Hash map | | |
+|540. Single Element in a Sorted Array | Binary Search | | |
 
 Google Interview
 1. Data structure & algoritm. Time complexity and space complexity
