@@ -161,6 +161,10 @@ This project is LeetCode note for myself.
 |416. Partition Equal Subset Sum | Dynamic Programming | | |
 |325. Maximum Size Subarray Sum Equals k | Hash map | | |
 |540. Single Element in a Sorted Array | Binary Search | | |
+| 43. Multiply Strings | Simulation | | find_first_not_of, substr, string::npos |
+| 57. Insert Interval | Analysis | | |
+| 316. Remove Duplicate Letters | Record | | |
+
 
 Google Interview
 1. Data structure & algoritm. Time complexity and space complexity
