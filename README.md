@@ -164,6 +164,7 @@ This project is LeetCode note for myself.
 | 43. Multiply Strings | Simulation | | find_first_not_of, substr, string::npos |
 | 57. Insert Interval | Analysis | | |
 | 316. Remove Duplicate Letters | Record | | |
+|68. Text Justification | Analysis | | ceil |
 
 
 Google Interview
