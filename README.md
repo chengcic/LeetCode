@@ -165,7 +165,8 @@ This project is LeetCode note for myself.
 | 57. Insert Interval | Analysis | | |
 | 316. Remove Duplicate Letters | Record | | |
 |68. Text Justification | Analysis | | ceil |
-
+| 77. Combinations | Analysis index | | |
+| 58. Length of Last Word | Loop | | |
 
 Google Interview
 1. Data structure & algoritm. Time complexity and space complexity
