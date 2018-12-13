@@ -167,6 +167,7 @@ This project is LeetCode note for myself.
 |68. Text Justification | Analysis | | ceil |
 | 77. Combinations | Analysis index | | |
 | 58. Length of Last Word | Loop | | |
+| 85. Maximal Rectangle | Dynamic Programming | | |
 
 Google Interview
 1. Data structure & algoritm. Time complexity and space complexity
