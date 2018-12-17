@@ -164,11 +164,13 @@ This project is LeetCode note for myself.
 | 43. Multiply Strings | Simulation | | find_first_not_of, substr, string::npos |
 | 57. Insert Interval | Analysis | | |
 | 316. Remove Duplicate Letters | Record | | |
-|68. Text Justification | Analysis | | ceil |
+| 68. Text Justification | Analysis | | ceil |
 | 77. Combinations | Analysis index | | |
 | 58. Length of Last Word | Loop | | |
 | 85. Maximal Rectangle | Dynamic Programming | | |
 | 109. Convert Sorted List to Binary Search Tree | Recursive | | |
+| 113. Path Sum II | Recursive | | |
+| 114. Flatten Binary Tree to Linked List | Recursive | | |
 
 Google Interview
 1. Data structure & algoritm. Time complexity and space complexity
