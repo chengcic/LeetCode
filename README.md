@@ -171,7 +171,8 @@ This project is LeetCode note for myself.
 | 109. Convert Sorted List to Binary Search Tree | Recursive | | |
 | 113. Path Sum II | Recursive | | |
 | 114. Flatten Binary Tree to Linked List | Recursive | | |
-| 163. Missing Ranges | Analysis | | Be careful on overflow | 
+| 163. Missing Ranges | Analysis | | Be careful on overflow |
+| 165. Compare Version Numbers | Loop | | string::npos |
 
 Google Interview
 1. Data structure & algoritm. Time complexity and space complexity
